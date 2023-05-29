@@ -1,4 +1,4 @@
-import React, {useState} from 'react'
+import {useState} from 'react'
 import {AiOutlineHome, AiOutlineMenu} from 'react-icons/ai'
 import { VscAccount } from "react-icons/vsc";
 function Sidenav() {
