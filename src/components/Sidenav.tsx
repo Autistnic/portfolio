@@ -1,5 +1,6 @@
 import {useState} from 'react'
-import {AiOutlineHome, AiOutlineMenu} from 'react-icons/ai'
+import {AiOutlineHome, AiOutlineMenu,AiOutlineMail} from 'react-icons/ai'
+import {ImFileText2} from 'react-icons/im'
 import { VscAccount } from "react-icons/vsc";
 function Sidenav() {
  const [nav, setNav] =useState(false)
@@ -16,16 +17,16 @@ function Sidenav() {
     <AiOutlineHome size={20}/>
     <span className='pl-4'>Home</span>
 </a>
-<a href="#About" className='w-[75%] flex justify-center items-center rounded-full shadow-lg bg-gray-100 shadow-gray-400 m-2 p-2 cursor-pointer hover:scale-110 ease-in duration-200'>
+<a href="#about" className='w-[75%] flex justify-center items-center rounded-full shadow-lg bg-gray-100 shadow-gray-400 m-2 p-2 cursor-pointer hover:scale-110 ease-in duration-200'>
     <VscAccount size={20}/>
     <span className='pl-4'>About</span>
 </a>
 <a href="#main" className='w-[75%] flex justify-center items-center rounded-full shadow-lg bg-gray-100 shadow-gray-400 m-2 p-2 cursor-pointer hover:scale-110 ease-in duration-200'>
-    <AiOutlineHome size={20}/>
+    <ImFileText2 size={20}/>
     <span className='pl-4'>Resume</span>
 </a>
 <a href="#main" className='w-[75%] flex justify-center items-center rounded-full shadow-lg bg-gray-100 shadow-gray-400 m-2 p-2 cursor-pointer hover:scale-110 ease-in duration-200'>
-    <AiOutlineHome size={20}/>
+    <AiOutlineMail size={20}/>
     <span className='pl-4'>Contact</span>
 </a>
 </div>
@@ -39,14 +40,14 @@ function Sidenav() {
     <a href="#main" className='rounded-full shadow-lg bg-gray-100 shadow-gray-400 m-2 p-4 cursor-pointer hover:scale-110 ease-in duration 300'>
         <AiOutlineHome/>
     </a>
-    <a href="#main" className='rounded-full shadow-lg bg-gray-100 shadow-gray-400 m-2 p-4 cursor-pointer hover:scale-110 ease-in duration 300'>
-        <AiOutlineHome/>
+    <a href="#about" className='rounded-full shadow-lg bg-gray-100 shadow-gray-400 m-2 p-4 cursor-pointer hover:scale-110 ease-in duration 300'>
+        <VscAccount/>
     </a>
     <a href="#main" className='rounded-full shadow-lg bg-gray-100 shadow-gray-400 m-2 p-4 cursor-pointer hover:scale-110 ease-in duration 300'>
-        <AiOutlineHome/>
+        <ImFileText2/>
     </a>
     <a href="#main" className='rounded-full shadow-lg bg-gray-100 shadow-gray-400 m-2 p-4 cursor-pointer hover:scale-110 ease-in duration 300'>
-        <AiOutlineHome/>
+        <AiOutlineMail/>
     </a>
     </div>
     </div>
