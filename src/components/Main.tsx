@@ -1,5 +1,6 @@
 import { TypeAnimation } from "react-type-animation"
 import {FaFacebookF,FaInstagram,FaLinkedinIn} from 'react-icons/fa'
+
 function Main() {
 
   return (
@@ -25,7 +26,7 @@ function Main() {
       </h2>
       <div className='flex justify-between pt-6 max-w-[200px] w-full'>
       <a href='https://www.facebook.com/autistnic' target="_blank">
-      <FaFacebookF className='cursor-pointer' size={20}/>
+      <FaFacebookF className='cursor-pointer ' size={20}/>
       </a>
       <a href='https://www.instagram.com/neko.eth/' target="_blank">
       <FaInstagram className='cursor-pointer' size={20}/>
