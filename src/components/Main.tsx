@@ -6,8 +6,9 @@ function Main() {
 <div id='main'>
 <img className='w-full h-screen object-cover' src="/bgME.jpg" alt="image here" />
 <div className='w-full h-screen absolute top-0 left-0 bg-white/30'>
-  <div className='max-w-[700px] pr-[90] pl-[100px] pb-[250px] h-full w-full flex flex-col justify-center lg:items-start items-center'><h1 className=' text-4xl font-bold text-gray-800 flex'>
-    I'm Christian Marc Nico Alingasa</h1>
+  <div className='max-w-[700px] pr-[90] pb-[250px] h-full w-full flex flex-col justify-center lg:items-start items-center pl-[100px]'><h1 className=' text-4xl font-bold text-gray-800 flex'>
+    I'm </h1>
+    <h1 className=' text-4xl font-bold text-gray-800 flex text-center'>Christian Marc Nico Alingasa</h1>
     <h2 className='flex sm:text-3xl text-2xl pt-2 text-gray-800'>I'm a <TypeAnimation
       sequence={[
         'Developer',
