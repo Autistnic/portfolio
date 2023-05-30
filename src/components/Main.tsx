@@ -32,6 +32,9 @@ function Main() {
       <a href='https://www.linkedin.com/in/nekonii' target="_blank">
       <FaLinkedinIn className='cursor-pointer' size={20}/>
       </a>
+      <a href='https://www.dotabuff.com/players/397968290' target="_blank">
+      <img className='cursor-pointer w-[20px] h-[20px]'src='/dotalink.png'/>
+      </a>
       </div>
       </div>
 </div>
