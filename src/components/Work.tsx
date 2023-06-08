@@ -3,7 +3,7 @@ const Work = () => {
     <div id="work" className="max-w-[100%] md:pl-20 md:pr-20 bg-[#9BABB8] h-auto">
     <div>
         <h1 className="flex justify-center font-bold text-3xl py-4">Projects</h1>
-        <p className="bg-[#EEE3CB] bg-opacity-50 p-4 rounded-lg mb-4 text-justify mx-4 my-10">During my OJT at Spring Valley Tech Corp, I had the incredible opportunity to actively contribute to a real-world project. This immersive experience exposed me to a dynamic work environment and allowed me to apply my skills in a practical setting. I gained valuable insights into project management, problem-solving, and teamwork, enhancing my professional development significantly. Working alongside seasoned professionals, I acquired a deep understanding of industry best practices and developed a strong foundation for my future career in the IT field.</p>
+        <p className="bg-[#EEE3CB] bg-opacity-50 p-4 rounded-lg mb-4 text-justify mx-4 my-5npm">During my OJT at Spring Valley Tech Corp, I had the incredible opportunity to actively contribute to a real-world project. This immersive experience exposed me to a dynamic work environment and allowed me to apply my skills in a practical setting. I gained valuable insights into project management, problem-solving, and teamwork, enhancing my professional development significantly. Working alongside seasoned professionals, I acquired a deep understanding of industry best practices and developed a strong foundation for my future career in the IT field.</p>
         <h2 className="flex justify-center font-bold text-2xl mb-4">Pasabay</h2>
         <div>
         </div>

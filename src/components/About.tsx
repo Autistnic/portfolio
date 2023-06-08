@@ -9,7 +9,7 @@ function About() {
           About Me
         </h1>
       </div>
-      <div className="bg-[#EEE3CB] bg-opacity-50 p-4 rounded-lg my-4 text-black text-2xl text-justify">
+      <div className="bg-[#EEE3CB] bg-opacity-50 p-4 rounded-lg my-4 text-black text-xl text-justify">
         A skilled and ambitious Bachelor of Science in Information Technology
         graduate proficient in Database Management (PHP, MySQL, Prisma) and
         Programming (Java, Python, C++). Experienced in Web Development (HTML,
@@ -18,7 +18,7 @@ function About() {
         adaptability. Ready to make a meaningful impact in the IT field.
       </div>
       <div>
-        <div className="flex justify-around flex-wrap bg-[#EEE3CB] bg-opacity-50 p-4 rounded-lg w-auto">
+        <div className="flex justify-between flex-wrap bg-[#EEE3CB] bg-opacity-50 p-4 rounded-lg w-auto">
           <div className="mr-5">
             <h1 className="font-bold text-black text-2xl">Address</h1>
             <h2 className="font-semibold text-1xl text-black">
