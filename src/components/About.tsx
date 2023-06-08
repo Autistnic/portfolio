@@ -2,14 +2,14 @@ function About() {
   return (
     <div
       id="about"
-      className="max-w-[100%] bg-[#9BABB8] h-auto px-20"
+      className="max-w-[100%] bg-[#9BABB8] h-auto px-5"
     >
       <div className="flex justify-center">
         <h1 className="text-3xl text-black font-bold text-center mb-2">
           About Me
         </h1>
       </div>
-      <div className="bg-[#EEE3CB] bg-opacity-50 p-4 rounded-lg my-4 text-black text-xl text-justify">
+      <div className="bg-[#EEE3CB] bg-opacity-50 p-4 rounded-lg my-2 text-black text-xl text-justify">
         A skilled and ambitious Bachelor of Science in Information Technology
         graduate proficient in Database Management (PHP, MySQL, Prisma) and
         Programming (Java, Python, C++). Experienced in Web Development (HTML,
