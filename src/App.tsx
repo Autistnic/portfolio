@@ -7,9 +7,18 @@ function App() {
   return (
     <div>
 <Sidenav/>
-<Main/>
-<About/>
-<Work/>
+
+
+
+    <div className=' overflow-hidden h-auto'>
+    <Main/>
+    </div>
+    <div className='overflow-hidden h-auto'>
+    <About/>
+    </div>
+    <div className=' overflow-hidden h-auto'>
+    <Work/>
+    </div>
     </div>
   )
 }
