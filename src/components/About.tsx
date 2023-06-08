@@ -5,11 +5,11 @@ function About() {
       className="max-w-[100%] bg-[#9BABB8] h-auto px-5"
     >
       <div className="flex justify-center">
-        <h1 className="text-3xl text-black font-bold text-center mb-2">
+        <h1 className="text-3xl text-black font-bold text-center my-4">
           About Me
         </h1>
       </div>
-      <div className="bg-[#EEE3CB] bg-opacity-50 p-4 rounded-lg my-2 text-black text-xl text-justify">
+      <div className="bg-[#EEE3CB] bg-opacity-50 p-4 rounded-lg my-2 text-black text-justify">
         A skilled and ambitious Bachelor of Science in Information Technology
         graduate proficient in Database Management (PHP, MySQL, Prisma) and
         Programming (Java, Python, C++). Experienced in Web Development (HTML,
@@ -38,7 +38,7 @@ function About() {
         </div>
       </div>
 
-      <h2 className="text-3xl font-bold text-center justify-self-start text-black mb-4">
+      <h2 className="text-3xl font-bold text-center justify-self-start text-black my-4">
         Educational Background
       </h2>
       <div className="flex flex-col content-between">
