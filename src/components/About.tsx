@@ -51,7 +51,7 @@ function About() {
             <span className="text-lg font-semibold text-black">2019-2023</span>
           </div>
           <div>
-            <p className="my-2 text-black text-lg font-normal leading-normal">
+            <p className="my-2 text-black text-lg font-normal text-justify leading-normal">
               STI West Negros University: Bachelor of Science in Information
               Technology
             </p>
@@ -65,7 +65,7 @@ function About() {
             <span className="text-lg font-semibold text-black">2017-2018</span>
           </div>
           <div>
-            <p className="my-2 text-black text-lg font-normal leading-normal">
+            <p className="my-2 text-black text-lg text-justify font-normal leading-normal">
               Northern Negros State College of Science and Technology: Bachelor
               of Arts in English
             </p>
@@ -78,7 +78,7 @@ function About() {
             </span>
             <span className="text-lg font-semibold text-black">2015-2017</span>
           </div>
-            <p className="my-2 text-black md:text-md lg:text-lg font-normal leading-normal">
+            <p className="my-2 text-black md:text-md lg:text-lg text-justify font-normal leading-normal">
               Northern Negros State College of Science and Technology: Bachelor
               of Science in Information Technology
             </p>
