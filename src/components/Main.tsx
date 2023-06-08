@@ -14,7 +14,7 @@ function Main() {
       sequence={[
         'Developer',
         2000,
-        'Gamer',
+        'Tech Enthusiast',
         2000,
         'Programmer',
         2000,

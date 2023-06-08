@@ -1,6 +1,7 @@
 import Main from './components/Main'
 import Sidenav from './components/Sidenav'
 import About from './components/About'
+import Work from './components/Work'
 function App() {
 
   return (
@@ -8,6 +9,7 @@ function App() {
 <Sidenav/>
 <Main/>
 <About/>
+<Work/>
     </div>
   )
 }
