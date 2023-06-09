@@ -2,7 +2,7 @@ function About() {
   return (
     <div
       id="about"
-      className="max-w-[100%] bg-[#9BABB8] h-auto px-5"
+      className="max-w-[100%] bg-[#9BABB8] h-auto px-5 md:pl-20 md:pr-20"
     >
       <div className="flex justify-center">
         <h1 className="text-3xl text-black font-bold text-center my-4">
