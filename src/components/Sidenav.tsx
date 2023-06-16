@@ -23,7 +23,7 @@ function Sidenav() {
 </a>
 <a onClick={handleNav} href="#work" className='w-[75%] flex justify-center items-center rounded-full shadow-lg bg-gray-100 shadow-gray-400 m-2 p-2 cursor-pointer hover:scale-110 ease-in duration-200'>
     <ImFileText2 size={20}/>
-    <span className='pl-4'>Resume</span>
+    <span className='pl-4'>Work</span>
 </a>
 <a onClick={handleNav} href="#main" className='w-[75%] flex justify-center items-center rounded-full shadow-lg bg-gray-100 shadow-gray-400 m-2 p-2 cursor-pointer hover:scale-110 ease-in duration-200'>
     <AiOutlineMail size={20}/>
