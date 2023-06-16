@@ -43,7 +43,7 @@ function About() {
       </h2>
       <div className="flex flex-col content-between">
         <ol>
-        <li className="bg-[#EEE3CB] bg-opacity-50 p-4 rounded-lg my-10">
+        <li className="bg-[#EEE3CB] bg-opacity-50 p-4 rounded-lg my-5">
           <div className="flex flex-wrap gap-4 flex-row items-centered justify-start text-xs md:text-md">
             <span className="inline-block gap-4 px-2 py-1 font-semibold text-black bg-[#967E76] rounded-md">
               Tertiary
@@ -57,7 +57,7 @@ function About() {
             </p>
           </div>
         </li>
-        <li className="bg-[#EEE3CB] bg-opacity-50 p-4 rounded-lg my-10">
+        <li className="bg-[#EEE3CB] bg-opacity-50 p-4 rounded-lg my-5">
           <div className="flex flex-wrap gap-4 flex-row items-centered justify-start text-xs md:text-md">
             <span className="inline-block gap-4 px-2 py-1 font-semibold text-black bg-[#967E76] rounded-md">
               Tertiary

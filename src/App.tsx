@@ -2,6 +2,7 @@ import Main from './components/Main'
 import Sidenav from './components/Sidenav'
 import About from './components/About'
 import Work from './components/Work'
+import Contact from './components/Contact'
 function App() {
 
   return (
@@ -18,6 +19,9 @@ function App() {
     </div>
     <div className=' overflow-hidden h-auto'>
     <Work/>
+    </div >
+    <div  className=' overflow-hidden h-auto'>
+    <Contact></Contact>
     </div>
     </div>
   )
